@@ -13,3 +13,10 @@
 (Muutettu viikon 1 ohtuvarastoa checkstylen & codeclimaten mukaisesti)
 
 ## Viikko 3
+[Tehtävät 1-3](https://github.com/tommise/ohjelmistotuotanto-2020/tree/master/viikko3/tehtavat1-3/nhlreader)
+
+[Tehtävä 4](https://github.com/tommise/ohjelmistotuotanto-2020/tree/master/viikko3/tehtava4/HelloCucumber) 
+
+[Tehtävät 5-6](https://github.com/tommise/ohjelmistotuotanto-2020/tree/master/viikko3/tehtavat5-6/LoginCucumber)
+
+[Tehtävät 7-11](https://github.com/tommise/ohjelmistotuotanto-2020/tree/master/viikko3/tehtavat7-11/WebLogin)
